@@ -1,7 +1,7 @@
 const request = require('request');
 const Discord = require("discord.js");
 const os = require('os');
-const prefix = "!"
+const prefix = "-"
 const moment = require('moment');
 var client = new Discord.Client();
 
